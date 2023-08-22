@@ -1,0 +1,26 @@
+{"cabinet": [
+  {
+    "dosage": 2,
+    "takeWithFood": true,
+    "numPillsRemaining": 53,
+    "name": "Metformin",
+    "numRefillsRemaining": 2,
+    "mediTimer": {
+      "readyToTake": false,
+      "nextTime": 1690446360217,
+      "frequency": 48
+    }
+  },
+  {
+    "dosage": 1,
+    "takeWithFood": false,
+    "numPillsRemaining": 64,
+    "name": "Amoxicillin",
+    "numRefillsRemaining": 2,
+    "mediTimer": {
+      "readyToTake": false,
+      "nextTime": 1690302365524,
+      "frequency": 8
+    }
+  }
+]}
